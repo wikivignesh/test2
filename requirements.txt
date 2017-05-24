@@ -1,2 +1,4 @@
 django==1.8
-psycopg2
+gunicorn==19.7.1
+psycopg2==2.4.5
+
